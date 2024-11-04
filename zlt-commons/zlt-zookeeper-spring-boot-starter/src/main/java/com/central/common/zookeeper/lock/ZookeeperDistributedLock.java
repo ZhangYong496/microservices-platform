@@ -15,12 +15,11 @@ import java.util.concurrent.TimeUnit;
 /**
  * zookeeper分布式锁实现
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2021/4/3
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Component
 @ConditionalOnProperty(prefix = "zlt.lock", name = "lockerType", havingValue = "ZK")

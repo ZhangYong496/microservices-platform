@@ -8,11 +8,10 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * mybatis-plus 配置
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/4/5
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Setter
 @Getter

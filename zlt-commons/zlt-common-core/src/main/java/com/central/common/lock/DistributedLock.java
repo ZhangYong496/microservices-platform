@@ -5,11 +5,10 @@ import java.util.concurrent.TimeUnit;
 /**
  * 分布式锁顶级接口
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2018/5/29 14:12
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public interface DistributedLock {
     /**

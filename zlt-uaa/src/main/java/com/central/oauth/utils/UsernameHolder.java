@@ -1,12 +1,11 @@
 package com.central.oauth.utils;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2021/10/22
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class UsernameHolder {
     private static final ThreadLocal<String> contextHolder = new ThreadLocal();

@@ -13,12 +13,11 @@ import java.util.Map;
 /**
  * PasswordEncoder实现工具类
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2021/5/7
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class PwdEncoderUtil {
     public static PasswordEncoder getDelegatingPasswordEncoder(String encodingId) {

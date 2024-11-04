@@ -14,11 +14,10 @@ import javax.annotation.Resource;
 /**
  * security配置
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/2/22
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @EnableOAuth2Sso
 @Configuration

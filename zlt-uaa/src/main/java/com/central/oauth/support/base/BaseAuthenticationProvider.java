@@ -35,12 +35,11 @@ import java.util.Set;
 /**
  * 基础provider
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2023/11/18
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Setter
 @Getter

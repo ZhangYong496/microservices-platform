@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * 菜单
  *
- * @author zlt
+ * @author AlexZhang
  */
 @Mapper
 public interface SysMenuMapper extends SuperMapper<SysMenu> {

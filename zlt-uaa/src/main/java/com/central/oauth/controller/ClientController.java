@@ -17,10 +17,9 @@ import java.util.Map;
 /**
  * 应用相关接口
  *
- * @author zlt
+ * @author AlexZhang
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Tag(name = "应用")
 @RestController

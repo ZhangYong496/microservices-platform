@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import java.util.List;
 
 /**
- * @author zlt
+ * @author AlexZhang
  */
 @FeignClient(name = ServiceNameConstants.USER_SERVICE, fallbackFactory = MenuServiceFallbackFactory.class, dismiss404 = true)
 public interface MenuService {

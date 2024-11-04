@@ -13,10 +13,9 @@ import java.util.Map;
 /**
  * 日志埋点工具类
  *
- * @author zlt
+ * @author AlexZhang
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Slf4j
 public class PointUtil {

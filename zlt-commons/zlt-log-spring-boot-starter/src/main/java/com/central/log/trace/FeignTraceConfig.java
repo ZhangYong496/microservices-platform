@@ -12,11 +12,10 @@ import javax.annotation.Resource;
 /**
  * feign拦截器，传递traceId
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2021/1/28
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Configuration
 @ConditionalOnClass(value = {RequestInterceptor.class})

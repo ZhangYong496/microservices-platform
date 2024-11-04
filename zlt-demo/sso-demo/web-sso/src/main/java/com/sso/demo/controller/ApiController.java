@@ -21,11 +21,10 @@ import java.io.UnsupportedEncodingException;
 import java.util.*;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2020/3/10
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Slf4j
 @RestController

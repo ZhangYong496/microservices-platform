@@ -6,7 +6,7 @@ import lombok.Setter;
 /**
  * 聚合Item
  *
- * @author zlt
+ * @author AlexZhang
  */
 @Setter
 @Getter

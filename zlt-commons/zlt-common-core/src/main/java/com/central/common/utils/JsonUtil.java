@@ -17,11 +17,10 @@ import java.util.TimeZone;
 /**
  * 基于 Jackson 的 json 工具类
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/10/8
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class JsonUtil {
     private final static ObjectMapper MAPPER = new ObjectMapper();

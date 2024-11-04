@@ -5,11 +5,10 @@ import org.apache.dubbo.config.annotation.DubboService;
 import org.zlt.service.RpcService;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2020/1/30
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Slf4j
 @DubboService(protocol = "dubbo")

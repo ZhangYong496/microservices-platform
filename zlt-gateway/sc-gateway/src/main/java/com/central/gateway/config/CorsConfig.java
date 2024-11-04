@@ -12,11 +12,10 @@ import org.springframework.web.util.pattern.PathPatternParser;
 /**
  * 跨域配置
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/10/5
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Configuration
 public class CorsConfig {

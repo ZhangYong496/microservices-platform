@@ -28,7 +28,7 @@ import java.util.stream.Collectors;
 /**
  * 请求权限判断service
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2018/10/28
  * <p>
  * Blog: https://zlt2000.gitee.io

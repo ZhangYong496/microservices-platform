@@ -20,11 +20,10 @@ import javax.sql.DataSource;
 /**
  * 审计日志实现类-数据库
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/2/8
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Slf4j
 @Service

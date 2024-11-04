@@ -3,11 +3,10 @@ package com.central.oauth.service;
 import com.central.common.model.Result;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2018/12/10
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public interface IValidateCodeService {
     /**

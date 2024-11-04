@@ -9,7 +9,7 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author zlt
+ * @author AlexZhang
  */
 @FeignClient(name = ServiceNameConstants.SEARCH_SERVICE, fallbackFactory = SearchServiceFallbackFactory.class, dismiss404 = true)
 public interface SearchService {

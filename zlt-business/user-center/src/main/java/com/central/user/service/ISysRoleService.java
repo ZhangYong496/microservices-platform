@@ -9,10 +9,9 @@ import com.central.common.model.SysRole;
 import com.central.common.service.ISuperService;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public interface ISysRoleService extends ISuperService<SysRole> {
 	void saveRole(SysRole sysRole) throws Exception;

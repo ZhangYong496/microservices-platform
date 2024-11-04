@@ -7,10 +7,9 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Setter
 @Getter

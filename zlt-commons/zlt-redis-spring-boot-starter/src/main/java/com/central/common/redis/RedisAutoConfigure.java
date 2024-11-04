@@ -23,11 +23,10 @@ import java.util.Map;
 /**
  * redis 配置类
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2018/11/6 11:02
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @ComponentScan
 @EnableConfigurationProperties({RedisProperties.class, CacheManagerProperties.class})

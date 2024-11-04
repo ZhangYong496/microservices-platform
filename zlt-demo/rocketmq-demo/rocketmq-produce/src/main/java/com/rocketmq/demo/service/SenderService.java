@@ -11,7 +11,7 @@ import org.springframework.util.MimeTypeUtils;
 import javax.annotation.Resource;
 
 /**
- * @author zlt
+ * @author AlexZhang
  */
 @Service
 public class SenderService {

@@ -20,12 +20,11 @@ import org.springframework.util.Assert;
 /**
  * 用户名密码+图像验证码 provider
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2023/11/25
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Setter
 @Getter

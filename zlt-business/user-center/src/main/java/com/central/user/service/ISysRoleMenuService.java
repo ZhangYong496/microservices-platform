@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author zlt
+ * @author AlexZhang
  */
 public interface ISysRoleMenuService extends ISuperService<SysRoleMenu> {
 	int save(Long roleId, Long menuId);

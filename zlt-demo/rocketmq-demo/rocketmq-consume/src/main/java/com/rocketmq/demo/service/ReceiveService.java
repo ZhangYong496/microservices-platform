@@ -9,7 +9,7 @@ import org.springframework.messaging.Message;
 import java.util.function.Consumer;
 
 /**
- * @author zlt
+ * @author AlexZhang
  */
 @Configuration
 public class ReceiveService {

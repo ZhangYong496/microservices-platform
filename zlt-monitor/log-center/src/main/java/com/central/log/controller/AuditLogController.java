@@ -12,11 +12,10 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 审计日志
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/2/4
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Tag(name = "审计日志")
 @RestController

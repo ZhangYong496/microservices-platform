@@ -7,7 +7,7 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * 角色
  */
 @Data

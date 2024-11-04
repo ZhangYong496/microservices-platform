@@ -9,11 +9,10 @@ import java.util.Date;
 /**
  * 自定义填充公共字段
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2018/12/11
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 public class DateMetaObjectHandler implements MetaObjectHandler {
     private MybatisPlusAutoFillProperties autoFillProperties;

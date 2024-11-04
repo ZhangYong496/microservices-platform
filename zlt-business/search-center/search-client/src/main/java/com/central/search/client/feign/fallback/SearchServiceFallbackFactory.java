@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 /**
  * searchService降级工场
  *
- * @author zlt
+ * @author AlexZhang
  */
 @Slf4j
 @Component

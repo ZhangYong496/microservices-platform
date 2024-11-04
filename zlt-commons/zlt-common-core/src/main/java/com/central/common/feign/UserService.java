@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import java.util.List;
 
 /**
- * @author zlt
+ * @author AlexZhang
  */
 @FeignClient(name = ServiceNameConstants.USER_SERVICE, fallbackFactory = UserServiceFallbackFactory.class, dismiss404 = true)
 public interface UserService {

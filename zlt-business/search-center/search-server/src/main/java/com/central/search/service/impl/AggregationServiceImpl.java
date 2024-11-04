@@ -32,11 +32,10 @@ import java.util.Map;
 /**
  * 聚合分析服务
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/5/7
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Service
 public class AggregationServiceImpl implements IAggregationService {

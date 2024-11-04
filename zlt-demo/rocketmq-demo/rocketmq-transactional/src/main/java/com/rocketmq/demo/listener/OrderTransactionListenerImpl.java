@@ -11,7 +11,7 @@ import org.apache.rocketmq.common.message.MessageExt;
 import org.springframework.stereotype.Component;
 
 /**
- * @author zlt
+ * @author AlexZhang
  */
 @Component("myTransactionListener")
 public class OrderTransactionListenerImpl implements TransactionListener {

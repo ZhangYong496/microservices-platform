@@ -7,12 +7,11 @@ import org.springframework.web.socket.server.standard.ServerEndpointExporter;
 /**
  * WebSocket配置
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2022/5/8
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Configuration
 public class WebSocketConfig {

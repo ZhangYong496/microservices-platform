@@ -17,11 +17,10 @@ import java.io.IOException;
 /**
  * web过滤器，生成日志链路追踪id，并赋值MDC
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/10/14
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Component
 @ConditionalOnClass(value = {HttpServletRequest.class, OncePerRequestFilter.class})

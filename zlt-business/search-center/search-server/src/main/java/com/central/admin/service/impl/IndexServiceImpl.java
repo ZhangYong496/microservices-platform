@@ -30,11 +30,10 @@ import java.util.*;
 /**
  * 索引
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/4/23
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Service
 public class IndexServiceImpl implements IIndexService {

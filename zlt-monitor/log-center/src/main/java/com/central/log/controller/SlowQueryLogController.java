@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 慢查询日志
  *
- * @author zlt
+ * @author AlexZhang
  */
 @Tag(name = "慢查询日志")
 @RestController

@@ -11,8 +11,7 @@ import java.util.Collection;
  * @author: zlt
  * @date: 2023/11/18
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Getter
 public class OpenIdAuthenticationToken extends BaseAuthenticationToken {

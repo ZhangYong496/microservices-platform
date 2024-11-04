@@ -9,12 +9,11 @@ import java.util.List;
 /**
  * 续签配置
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2019/7/9
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Setter
 @Getter

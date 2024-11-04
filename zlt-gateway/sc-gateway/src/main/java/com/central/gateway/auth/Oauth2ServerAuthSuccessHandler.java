@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * 认证成功处理类
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/10/7
  * <p>
  * Blog: https://zlt2000.gitee.io

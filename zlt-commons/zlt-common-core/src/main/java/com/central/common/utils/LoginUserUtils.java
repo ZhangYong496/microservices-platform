@@ -23,12 +23,11 @@ import java.util.*;
 /**
  * 获取当前登录人工具类
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2022/6/26
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class LoginUserUtils {
     private final static String ATT_PERMISSIONS = "permissions";

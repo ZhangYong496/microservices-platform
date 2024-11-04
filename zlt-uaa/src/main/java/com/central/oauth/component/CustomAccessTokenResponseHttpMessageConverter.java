@@ -16,12 +16,11 @@ import org.springframework.security.oauth2.core.http.converter.OAuth2AccessToken
 import java.util.Map;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2023/12/6
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class CustomAccessTokenResponseHttpMessageConverter extends OAuth2AccessTokenResponseHttpMessageConverter {
     private Converter<OAuth2AccessTokenResponse, Map<String, Object>> accessTokenResponseParametersConverter = new DefaultOAuth2AccessTokenResponseMapConverter();

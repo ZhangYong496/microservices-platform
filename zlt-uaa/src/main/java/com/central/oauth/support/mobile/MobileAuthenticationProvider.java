@@ -17,10 +17,9 @@ import org.springframework.security.oauth2.server.authorization.token.OAuth2Toke
 import org.springframework.util.Assert;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Setter
 @Getter

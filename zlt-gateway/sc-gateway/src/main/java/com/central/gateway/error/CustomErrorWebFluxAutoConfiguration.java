@@ -20,11 +20,10 @@ import org.springframework.web.reactive.result.view.ViewResolver;
 /**
  * 自定义异常处理
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/3/30
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @AutoConfiguration(before = WebFluxAutoConfiguration.class)
 @ConditionalOnWebApplication(type = ConditionalOnWebApplication.Type.REACTIVE)

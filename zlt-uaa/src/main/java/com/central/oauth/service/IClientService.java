@@ -7,10 +7,9 @@ import com.central.oauth.model.Client;
 import java.util.Map;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public interface IClientService extends ISuperService<Client> {
     void saveClient(Client clientDto) throws Exception;

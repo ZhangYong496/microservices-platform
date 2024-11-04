@@ -16,11 +16,10 @@ import javax.annotation.Resource;
 import java.io.OutputStream;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2021/2/13
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Service
 @ConditionalOnProperty(prefix = com.central.oss.properties.FileServerProperties.PREFIX, name = "type", havingValue = FileServerProperties.TYPE_S3)

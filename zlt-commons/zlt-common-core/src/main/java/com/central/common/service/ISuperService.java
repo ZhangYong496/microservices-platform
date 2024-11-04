@@ -7,11 +7,10 @@ import com.central.common.lock.DistributedLock;
 /**
  * service接口父类
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/1/10
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public interface ISuperService<T> extends IService<T> {
     /**

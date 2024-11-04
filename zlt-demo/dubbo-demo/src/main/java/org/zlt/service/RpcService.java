@@ -1,11 +1,10 @@
 package org.zlt.service;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2020/1/30
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public interface RpcService {
     String test(String param);

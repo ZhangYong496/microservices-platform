@@ -8,11 +8,10 @@ import org.springframework.web.bind.annotation.RestController;
 import org.zlt.service.RpcService;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2020/6/26
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Slf4j
 @RestController

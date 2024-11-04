@@ -8,10 +8,9 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 /**
  * 密码加密配置类
  *
- * @author zlt
+ * @author AlexZhang
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class DefaultPasswordConfig {
 	@Bean

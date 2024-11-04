@@ -13,7 +13,7 @@ import java.lang.annotation.Target;
 /**
  * 控制是否加载搜索中心客户端的Service
  *
- * @author zlt
+ * @author AlexZhang
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

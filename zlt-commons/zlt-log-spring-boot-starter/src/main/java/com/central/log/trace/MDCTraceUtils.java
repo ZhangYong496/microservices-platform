@@ -10,11 +10,10 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * 日志追踪工具类
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/10/14
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class MDCTraceUtils {
     /**

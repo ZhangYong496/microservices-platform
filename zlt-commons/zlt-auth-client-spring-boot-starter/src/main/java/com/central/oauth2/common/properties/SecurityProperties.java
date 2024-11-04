@@ -6,12 +6,11 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2019/1/4
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Setter
 @Getter

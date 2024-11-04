@@ -10,7 +10,7 @@ import java.util.*;
 /**
  * 重构{@link LogbackMDCAdapter}类，搭配TransmittableThreadLocal实现父子线程之间的数据传递
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/8/17
  */
 public class TtlMDCAdapter implements MDCAdapter {

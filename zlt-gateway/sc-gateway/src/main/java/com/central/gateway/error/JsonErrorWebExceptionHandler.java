@@ -15,11 +15,10 @@ import java.util.Map;
 /**
  * 自定义异常处理
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/3/30
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class JsonErrorWebExceptionHandler extends DefaultErrorWebExceptionHandler {
     public JsonErrorWebExceptionHandler(ErrorAttributes errorAttributes, WebProperties.Resources resourceProperties,

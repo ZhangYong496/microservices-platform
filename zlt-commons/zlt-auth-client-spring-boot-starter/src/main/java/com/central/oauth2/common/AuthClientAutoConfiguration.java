@@ -7,12 +7,11 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * 鉴权自动配置
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2021/7/24
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @EnableConfigurationProperties({SecurityProperties.class})
 @ComponentScan

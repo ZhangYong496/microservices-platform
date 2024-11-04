@@ -11,12 +11,11 @@ import org.springframework.test.context.junit4.SpringRunner;
 /**
  * RSA加密测试
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2023/1/30
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @RunWith(SpringRunner.class)
 public class RsaUtilsTest {

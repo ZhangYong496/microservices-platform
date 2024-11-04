@@ -11,11 +11,10 @@ import java.time.format.DateTimeFormatter;
 /**
  * 审计日志实现类-打印日志
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/2/3
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Slf4j
 @Service

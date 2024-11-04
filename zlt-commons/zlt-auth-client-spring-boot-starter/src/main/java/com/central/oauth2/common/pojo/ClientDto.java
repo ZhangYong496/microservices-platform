@@ -6,12 +6,11 @@ import java.io.Serial;
 import java.io.Serializable;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2023/12/2
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Data
 public class ClientDto implements Serializable {

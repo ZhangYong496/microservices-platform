@@ -27,8 +27,7 @@ import java.util.function.Supplier;
  * @author: zlt
  * @date: 2023/12/06
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Component
 @RequiredArgsConstructor

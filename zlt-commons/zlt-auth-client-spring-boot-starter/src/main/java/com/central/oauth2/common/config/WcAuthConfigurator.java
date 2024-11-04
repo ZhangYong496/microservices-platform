@@ -9,12 +9,11 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 /**
  * webSocket鉴权配置
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2022/5/8
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Slf4j
 public class WcAuthConfigurator extends ServerEndpointConfig.Configurator {

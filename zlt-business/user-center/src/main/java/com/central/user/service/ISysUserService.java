@@ -12,10 +12,9 @@ import com.central.common.model.SysRole;
 import com.central.common.model.SysUser;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 public interface ISysUserService extends ISuperService<SysUser> {
 	/**

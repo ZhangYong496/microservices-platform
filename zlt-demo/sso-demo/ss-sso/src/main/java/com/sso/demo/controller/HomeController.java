@@ -8,11 +8,10 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2020/2/22
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Controller
 public class HomeController {

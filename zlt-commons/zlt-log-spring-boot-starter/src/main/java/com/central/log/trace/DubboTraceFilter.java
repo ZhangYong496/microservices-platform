@@ -8,11 +8,10 @@ import org.apache.dubbo.rpc.*;
 /**
  * dubbo过滤器，传递traceId
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2021/1/30
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Activate(group = {CommonConstants.PROVIDER, CommonConstants.CONSUMER}, order = MDCTraceUtils.FILTER_ORDER)
 public class DubboTraceFilter implements Filter {

@@ -13,8 +13,7 @@ import java.util.function.Supplier;
  * @author: zlt
  * @date: 2023/12/06
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public final class SupplierDeferredSecurityContext implements DeferredSecurityContext {
 	private static final Log logger = LogFactory.getLog(SupplierDeferredSecurityContext.class);

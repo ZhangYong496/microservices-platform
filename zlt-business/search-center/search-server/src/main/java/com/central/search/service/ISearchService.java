@@ -7,7 +7,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import java.io.IOException;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2019/4/24
  */
 public interface ISearchService {

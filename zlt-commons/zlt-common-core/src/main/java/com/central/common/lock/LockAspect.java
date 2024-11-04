@@ -17,11 +17,10 @@ import org.springframework.expression.spel.support.StandardEvaluationContext;
 /**
  * 分布式锁切面
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/6/6
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Slf4j
 @Aspect

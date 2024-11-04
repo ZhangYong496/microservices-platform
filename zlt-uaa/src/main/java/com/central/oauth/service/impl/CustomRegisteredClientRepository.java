@@ -19,8 +19,7 @@ import java.time.Duration;
  * @author: zlt
  * @date: 2023/08/04
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @RequiredArgsConstructor
 @Component

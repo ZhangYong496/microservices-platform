@@ -34,11 +34,10 @@ import java.util.Map;
 /**
  * ES查询Builder
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/3/28
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Setter
 @Getter

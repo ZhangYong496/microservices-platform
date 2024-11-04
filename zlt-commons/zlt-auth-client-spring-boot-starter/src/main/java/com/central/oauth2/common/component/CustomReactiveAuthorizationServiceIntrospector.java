@@ -18,12 +18,11 @@ import java.util.*;
 /**
  * webFlux 内省 token 解析器
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2023/12/4
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Slf4j
 public class CustomReactiveAuthorizationServiceIntrospector implements ReactiveOpaqueTokenIntrospector {

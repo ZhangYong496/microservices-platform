@@ -5,11 +5,10 @@ import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2021/2/11
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Setter
 @Getter

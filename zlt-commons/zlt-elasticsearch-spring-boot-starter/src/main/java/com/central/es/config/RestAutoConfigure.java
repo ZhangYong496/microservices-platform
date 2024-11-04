@@ -19,11 +19,10 @@ import java.util.List;
 /**
  * es自动配置
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/3/28
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @EnableConfigurationProperties(RestClientPoolProperties.class)
 public class RestAutoConfigure extends AbstractElasticsearchConfiguration {

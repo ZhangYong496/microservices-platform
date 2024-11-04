@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * sharding-jdbc demo
  *
- * @author zlt
+ * @author AlexZhang
  */
 @SpringBootApplication
 public class ShardingApplication {

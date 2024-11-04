@@ -13,11 +13,10 @@ import reactor.core.publisher.Mono;
 import java.nio.charset.Charset;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2020/5/5
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class WebfluxResponseUtil {
     /**

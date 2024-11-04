@@ -14,11 +14,10 @@ import reactor.core.publisher.Mono;
 /**
  * 生成日志链路追踪id，并传入header中
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/10/7
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Component
 public class TraceFilter implements GlobalFilter, Ordered {

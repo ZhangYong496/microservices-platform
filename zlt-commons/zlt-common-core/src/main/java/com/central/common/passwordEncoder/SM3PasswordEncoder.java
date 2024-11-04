@@ -7,12 +7,11 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 /**
  * SM3
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2022/12/29
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Slf4j
 public class SM3PasswordEncoder implements PasswordEncoder {

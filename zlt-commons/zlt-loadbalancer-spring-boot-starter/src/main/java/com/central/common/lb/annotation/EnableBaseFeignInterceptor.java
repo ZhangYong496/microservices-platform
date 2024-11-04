@@ -11,11 +11,10 @@ import java.lang.annotation.Target;
 /**
  * 开启feign拦截器传递数据给下游服务，只包含基础数据
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/10/26
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

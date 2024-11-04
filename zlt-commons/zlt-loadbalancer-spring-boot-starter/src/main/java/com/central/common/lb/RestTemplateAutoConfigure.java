@@ -21,11 +21,10 @@ import org.springframework.http.client.HttpComponentsClientHttpRequestFactory;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2018/11/17
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Configuration
 @EnableConfigurationProperties(RestTemplateProperties.class)

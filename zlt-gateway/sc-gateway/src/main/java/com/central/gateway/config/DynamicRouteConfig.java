@@ -11,11 +11,10 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 动态路由配置
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2019/10/7
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Configuration
 @ConditionalOnProperty(prefix = "zlt.gateway.dynamicRoute", name = "enabled", havingValue = "true")

@@ -8,11 +8,10 @@ import org.springframework.cloud.context.config.annotation.RefreshScope;
 /**
  * es的httpClient连接池配置
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2020/3/28
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Setter
 @Getter

@@ -26,12 +26,11 @@ import java.util.regex.Pattern;
 /**
  * 实现排除鉴权的地址即使参数带 access_token 也不会进行鉴权
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2023/12/5
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 public class CustomServerBearerTokenAuthConverter implements ServerAuthenticationConverter {
     private final PathMatcher pathMatcher = new AntPathMatcher();

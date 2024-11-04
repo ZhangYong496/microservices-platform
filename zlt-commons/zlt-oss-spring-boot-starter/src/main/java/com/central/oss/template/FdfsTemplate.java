@@ -18,11 +18,10 @@ import java.io.InputStream;
 /**
  * FastDFS配置
  *
- * @author zlt
+ * @author AlexZhang
  * @date 2021/2/11
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @ConditionalOnClass(FastFileStorageClient.class)
 @ConditionalOnProperty(prefix = FileServerProperties.PREFIX, name = "type", havingValue = FileServerProperties.TYPE_FDFS)

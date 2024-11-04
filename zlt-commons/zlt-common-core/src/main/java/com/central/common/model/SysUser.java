@@ -10,7 +10,7 @@ import lombok.Data;
 import lombok.EqualsAndHashCode;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * 用户实体
  */
 @Data

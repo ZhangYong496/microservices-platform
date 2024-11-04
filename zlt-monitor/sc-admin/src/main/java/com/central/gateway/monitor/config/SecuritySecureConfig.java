@@ -11,7 +11,7 @@ import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.security.web.authentication.SavedRequestAwareAuthenticationSuccessHandler;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @date 2019/1/8
  */
 @Configuration

@@ -13,12 +13,11 @@ import java.util.concurrent.Future;
 /**
  * 异步Menu服务
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2021/8/8
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @Component
 public class AsynMenuService {

@@ -22,12 +22,11 @@ import org.springframework.security.web.access.AccessDeniedHandler;
 import javax.annotation.Resource;
 
 /**
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2023/12/5
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+ 
  */
 @EnableWebSecurity
 @Import(BaseSecurityConfig.class)

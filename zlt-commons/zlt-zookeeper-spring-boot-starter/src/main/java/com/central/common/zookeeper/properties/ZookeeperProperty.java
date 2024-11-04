@@ -7,12 +7,11 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * zookeeper配置
  *
- * @author zlt
+ * @author AlexZhang
  * @version 1.0
  * @date 2021/4/3
  * <p>
- * Blog: http://zlt2000.gitee.io
- * Github: https://github.com/zlt2000
+
  */
 @Setter
 @Getter
